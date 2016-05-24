@@ -7,11 +7,11 @@ Khách hàng cần 1 chương trình chạy trên nền web với các tính nă
 
 - Hệ thống lưu trữ profile của các thành viên trong 1 nhóm hội. Có thể xem profile public, có thể đăng nhập để chỉnh sửa các thông tin của mình trên hệ thống.
 
-- Người dùng hệ thống này chia làm 3 loại:
+- Người dùng hệ thống này chia làm 4 loại:
 
  - Khách (`guest`) :  là người bất kỳ truy cập vào trang web. Khách có thể truy cập để xem profile của các `user` trên hệ thống.
  - Người dùng (`user`) : là khách sau khi đăng ký hệ thống thông qua tính năng `Đăng ký`.
- - Quản lý (`admod`) : là người dùng có quyền chỉnh sửa thông tin của toàn bộ các user khác ngoại trừ các admod khác và administrator.
+ - Quản lý (`admod`) : là người dùng có quyền chỉnh sửa thông tin của toàn bộ các user khác ngoại trừ các admod khác và `administrator`.
  - Quản trị (`administrator`) :  là người dùng có quyền chỉnh sửa thông tin của tất cả những người khác, có quyền nâng cấp `user` lên `admod` và ngược lại. Administrator là duy nhất.
 
 # Yêu cầu chi tiết:
