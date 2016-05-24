@@ -40,12 +40,13 @@ Khách hàng cần 1 chương trình chạy trên nền web với các tính nă
  - Sử dụng HTML, CSS, JS làm giao diện _(không dùng framework)_
  - Sử dụng PHP làm ngôn ngữ logic ở backend _(không dùng framework, libs ngoài)_
  - Sử dụng MySQL để lưu trữ dữ liệu
+ - Danh sách `user` sử dụng phân trang với mỗi trang là 10 người. Hiển thị thông tin: Ảnh đại diện, Tên đầy đủ, Giới thiệu, Ngày tham gia.
 
 ## Level 2
 
 - Thỏa mãn tiêu chí level 1 và :
 
- - Danh sách user không dùng table.
+ - Danh sách user không dùng table. Thêm lựa chọn hiển thị 10,20,50,100 `user` trên một trang. Có thể sắp xếp theo tên hoặc ngày tham gia.
  - Đăng nhập bằng email hoặc username đều được.
  - Nếu là khách, khi xem trang chi tiết 1 người dùng thì chỉ hiển thị tên đầy đủ và ảnh. Kèm theo thống báo đăng nhập để xem đầy đủ.
  
