@@ -28,10 +28,10 @@ Khách hàng cần 1 chương trình chạy trên nền web với các tính nă
 
 - Đăng nhập : đăng nhập bằng 2 thông tin `Email` và `Mật khẩu`.
 
-- Chỉnh sửa thông tin : Có thể sửa lại toàn bộ các thông tin như trên phần đăng ký, nhưng toàn bộ các trường đều là bắt buộc. Ngoài ra thêm 1 trường `Mô tả` để mô tả qua về bản thân. `user` chỉ có thể chỉnh sửa thông tin của mình, `admod` có thể chỉnh sửa của mình và các `user`, `administrator` có thể chỉnh sửa thông tin của bất kỳ ai.
+- Chỉnh sửa thông tin : Có thể sửa lại toàn bộ các thông tin như trên phần đăng ký, nhưng toàn bộ các trường đều là bắt buộc. Ngoài ra thêm 1 trường `Mô tả` để mô tả qua về bản thân, `ngày sinh`, `giới tính`. `user` chỉ có thể chỉnh sửa thông tin của mình, `admod` có thể chỉnh sửa của mình và các `user`, `administrator` có thể chỉnh sửa thông tin của bất kỳ ai.
 
 - Xem chi tiết người dùng : hiển thị chi tiết của 1 thành viên, khách cũng có thể xem.
-- Danh sách `user` :  danh sách toàn bộ `user`(đây cũng chính là trang chủ, trang mặc định khi người dùng truy cập trang web). Đối với admod, `administrator` thì có nút sửa, xóa để sử thông tin người được chọn hoặc xóa người được chọn khỏi hệ thống.
+- Danh sách `user` :  danh sách toàn bộ `user`(đây cũng chính là trang chủ, trang mặc định khi người dùng truy cập trang web). Đối với admod, `administrator` thì có nút sửa, xóa để sửa thông tin người được chọn hoặc xóa người được chọn khỏi hệ thống.
 
 ## Level 1
 
