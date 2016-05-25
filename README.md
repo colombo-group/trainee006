@@ -23,7 +23,6 @@ Khách hàng cần 1 chương trình chạy trên nền web với các tính nă
  - Email (bắt buộc, duy nhất).
  - Phone (bắt buộc, duy nhất).
  - Ảnh đại diện (không bắt buộc).
- - Mô tả (Không bắt buộc).
  - Mật khẩu (bắt buộc, nhập 2 lần giống nhau).
 
 - Đăng nhập : đăng nhập bằng 2 thông tin `Email` và `Mật khẩu`.
